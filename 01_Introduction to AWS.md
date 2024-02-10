@@ -26,3 +26,6 @@
 ● https://aws.amazon.com/about-aws/global-infrastructure/
 ● Each Availability zone consist of one or more data centers connected by high
 speed low latency internet
+
+![region.png](../_resources/region-1.png)
+<img src="_resources/region.png" alt="region" width="800"/>
